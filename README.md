@@ -1,2 +1,2 @@
 # ReactDependency
-A react native cocoapods dependeny
+A react native cocoapods dependency
