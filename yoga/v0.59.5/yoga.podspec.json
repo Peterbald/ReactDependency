@@ -28,5 +28,5 @@
     "tvos": "9.2"
   },
   "source_files": "ReactCommon/yoga/yoga/**/*.{cpp,h}",
-  "public_header_files": "ReactCommon/yoga/yoga/{Yoga,YGEnums,YGMacros}.h"
+  "public_header_files": "ReactCommon/yoga/yoga/*.h"
 }
